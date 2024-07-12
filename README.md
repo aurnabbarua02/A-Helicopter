@@ -8,4 +8,4 @@ Runtime Environment: Node Js
 
 Programming Language: HTML, Javascript
 
-[![Click to play](https://img.youtube.com/vi/IJuFk8BPOrc/0.jpg)]([https://youtu.be/FDU8Zl-gsL8])
+[![Click to play](https://img.youtube.com/vi/FDU8Zl-gsL8/0.jpg)]([https://www.youtube.com/watch?v=FDU8Zl-gsL8])
